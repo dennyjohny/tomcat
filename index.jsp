@@ -105,7 +105,7 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Welcome</h1>
+    <h1>Welcome1</h1>
     <p>Your Tomcat2 Based Sample Web Application is now running on your own dedicated environment in the AWS Cloud</p>
   </div>
   
